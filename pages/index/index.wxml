@@ -1,0 +1,2 @@
+<!--区域1：视频播放器-->
+<videa id = 'myVideo' controls></videa>
